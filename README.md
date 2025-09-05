@@ -19,5 +19,4 @@ Me gusta investigar nuevas herramientas, seguir tutoriales y participar en la co
 
 **Contactos:**
 - Email: [aleantfree@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/
-alejandro-gortega/]
+- LinkedIn: [https://www.linkedin.com/in/alejandro-gortega/]
