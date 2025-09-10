@@ -9,8 +9,13 @@ Soy estudiante de la carrera Fullstack en **Coderhouse**, donde aprendo las tecn
 - MongoDB
 - Git y GitHub
 
-## 📚 Proyectos destacados
-- [PreEntrega2-code](https://github.com/alejo2709/PreEntrega2-code): Proyecto de entrega para Coderhouse, aplicando lo aprendido en HTML5 y CSS.
+## 📚 1er Proyecto
+- [PreEntrega2-code](https://github.com/alejo2709/PreEntrega2-code): Proyecto de entrega para Coderhouse
+- TEGNOLOGIAS APLICADAS:
+- HTML
+- CSS
+- SCSS (Sass, un preprocesador de CSS)
+- JavaScrip
 
 ## 🌱 En constante aprendizaje
 Me gusta investigar nuevas herramientas, seguir tutoriales y participar en la comunidad de desarrolladores. Si tienes algún consejo, recurso o proyecto colaborativo, ¡no dudes en contactarme!
